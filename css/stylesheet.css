@@ -3,5 +3,8 @@
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
-  
+}
+@font-face {
+  font-family: "Figtree";
+  src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
 }
