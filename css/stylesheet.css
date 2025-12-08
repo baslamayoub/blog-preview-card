@@ -6,5 +6,9 @@
 }
 @font-face {
   font-family: "Figtree";
-  src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+  src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format("ttf"),
+    url(/assets/fonts/Figtree-VariableFont_wght.ttf) format("ttf");
+}
+main {
+  font-family: "figtree ,sans-serif";
 }
